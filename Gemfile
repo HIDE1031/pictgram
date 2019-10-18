@@ -58,5 +58,8 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'jquery-rails'
 gem 'bootstrap-sass'
 
-#has_secure_passwordは内部で暗号化する
+# has_secure_passwordは内部で暗号化する
 gem 'bcrypt'
+
+# 画像投稿機能
+gem "carrierwave"
