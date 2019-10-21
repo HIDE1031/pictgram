@@ -52,14 +52,14 @@ h1, h2 {
   width: 100vw;
   height: 100vh;
   background-image: image-url('bg-top.png');
-  background-position: center center;
+  background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
   background-color: #464646;
 
   .users-new-container {
-    padding-top: 220px;
+    padding-top: 120px;
 
     .form-group {
       margin-bottom: 20px;
